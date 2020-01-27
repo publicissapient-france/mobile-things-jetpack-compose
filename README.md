@@ -17,3 +17,12 @@
 - [ ] Set article as favorite (from card, use `@Model`)
 - [ ] Article's list
 - [ ] Horizontal scrolling article's list
+
+#### Presentation
+
+Requirements:
+
+- [Deckset](https://www.deckset.com/)
+- Fonts
+  - [Futura Next](https://brand.engineering.publicissapient.fr/fonts.php)
+  - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
