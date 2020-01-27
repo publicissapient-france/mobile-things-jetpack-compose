@@ -32,13 +32,13 @@ Scott
 
 [.column]
 
-![](https://avatars2.githubusercontent.com/u/11772084?s=400&v=4)
+![](https://avatars2.githubusercontent.com/u/1873619?s=400&v=4)
 
 Michael
 
 [.column]
 
-![](https://avatars2.githubusercontent.com/u/11772084?s=400&v=4)
+![](https://avatars2.githubusercontent.com/u/2527419?s=400&v=4)
 
 Benjamin
 
@@ -253,7 +253,7 @@ fun Counter() {
 
 # Let‘s code<br>⌨️
 
-1. Télécharger `Intellij Idea` ![inline 10%](./assets/idea.png)
+1. Télécharger `Android Studio Canary` ![inline 10%](./assets/idea.png)
 2. Cloner `xebia-france/mobile-things-jetpack-compose`
 3. Commencez par [`step_0.md`](./steps/step_0.md)
 
