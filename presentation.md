@@ -38,7 +38,7 @@ Michael
 
 [.column]
 
-![](https://avatars2.githubusercontent.com/u/2527419?s=400&v=4)
+![](https://www.gravatar.com/avatar/63d261113651caa0dc887445c61ea48a?s=500)
 
 Benjamin
 
