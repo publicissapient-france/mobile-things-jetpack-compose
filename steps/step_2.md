@@ -35,3 +35,6 @@ Create our Article card
 - DrawImage
 - Container
 - Modifiers
+- +MaterialTheme.typography()
+
+[Next](./step_3.md)

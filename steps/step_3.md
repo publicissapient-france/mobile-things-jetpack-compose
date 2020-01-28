@@ -13,8 +13,10 @@ data class Article(
 # Goal
 Allow a talk to be marked as favorite.
 
-![image](./images/step_3.png)
+![image](./images/step_3.gif)
 
 # Hints
 - @Model
-- Button / Clickable
+- Button | Toggleable
+- Align
+- Padding

@@ -9,3 +9,5 @@ Display a Toolbar containing the App Name.
 - TopAppBar
 - Column
 - +stringResource
+
+[Next](./step_2.md)
