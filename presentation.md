@@ -53,6 +53,8 @@ Benjamin
 > Jetpack Compose simplifie et permet d‘accélérer le développement des composants d’interface sur Android.
 -- Android
 
+^Scott
+
 ---
 
 # Créer des composants de manière déclarative
@@ -82,6 +84,8 @@ Benjamin
 ![90%](https://developer.android.com/images/jetpack/info-bytes-compose-powerful.png)
 
 ### Puissant
+
+^Scott
 
 ^ `layout` & `class` vs `class`
 UI as code -> màj du composant
