@@ -127,7 +127,7 @@ val state = State(
   	viewStates()
   ]
 )
-view.render()
+view.render(state)
 ```
 
 ^ what, évaluation au changement (màj)
