@@ -75,7 +75,7 @@ fun ArticleCard(article: Article) {
                     FavoriteIcon(article)
                 }
             }
-            Column(modifier = ExpandedWidth wraps Spacing(8.dp)) {
+            Column(modifier = Spacing(8.dp) wraps ExpandedWidth) {
                 Text(
                     text = article.title,
                     style = typography.h6.withOpacity(0.87f)
