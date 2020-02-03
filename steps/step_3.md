@@ -20,3 +20,5 @@ Allow a talk to be marked as favorite.
 - Button | Toggleable
 - Align
 - Padding
+
+[Next](./step_4.md)
