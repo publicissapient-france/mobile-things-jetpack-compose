@@ -18,9 +18,13 @@ code: Jetbrains Mono
 
 [.slidenumbers: false]
 
+^B
+
 ---
 
 ![90%](./assets/PSE-KED-logo.png)
+
+^B
 
 ---
 
@@ -42,11 +46,15 @@ Michael
 
 Benjamin
 
+^B
+
 ---
 
 ![90%](./assets/timeline-ui-as-code.png)
 
 ^ React ≥ Litho ≥ Flutter ≥ Compose / Swift UI
+
+^B
 
 ---
 
@@ -86,8 +94,7 @@ Benjamin
 ### Puissant
 
 ^Scott
-
-^ `layout` & `class` vs `class`
+`layout` & `class` vs `class`
 UI as code -> màj du composant
 100% interopérable ; aperçu temps réel
 Accès API Android, nombreux composants déjà conçus : `Material Design`, `Thème sombre`, `Animations`
@@ -115,6 +122,8 @@ with(view) {
 
 [.slidenumber-style: #FFF]
 
+^M
+
 ---
 
 # Déclaratif
@@ -139,6 +148,8 @@ view.render(state)
 [.header: #FFF]
 
 [.slidenumber-style: #FFF]
+
+^M
 
 ---
 
@@ -169,6 +180,8 @@ fun DefaultPreview() {
 
 [.slidenumber-style: #FFF]
 
+^M
+
 ---
 
 # Layout 
@@ -176,13 +189,11 @@ fun DefaultPreview() {
 ```kotlin
 @Composable
 fun MyScreenContent() {
-  Column(modifier = ExpandedHeight) {
-    Column(modifier = Flexible(1f)) {
-      Greeting("Android")
-      Divider(color = Color.Black)
-      Greeting("there")
-      Divider(color = Color.Black)
-    }
+  Column {
+    Greeting("Android")
+    Divider(color = Color.Black)
+    Greeting("there")
+    Divider(color = Color.Black)
   }
 }
 
@@ -202,6 +213,8 @@ fun DefaultPreview() {
 [.header: #FFF]
 
 [.slidenumber-style: #FFF]
+
+^M
 
 ---
 
@@ -237,6 +250,8 @@ fun DefaultPreview() {
 
 [.slidenumber-style: #FFF]
 
+^M
+
 --- 
 
 # État (intérieur)
@@ -253,6 +268,8 @@ fun Counter() {
 }
 ```
 
+^M
+
 ---
 
 # Let‘s code<br>⌨️
@@ -262,3 +279,5 @@ fun Counter() {
 3. Commencez par [`step_0.md`](./steps/step_0.md)
 
 Happy coding 🚀
+
+^M

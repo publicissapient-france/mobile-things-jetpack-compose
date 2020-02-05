@@ -27,7 +27,7 @@ Create our Article card
 ![image](./images/step_2.png)
 
 # Hints
-- FlexColumn / FlexRow
+- Column / Row
 - Text
 - Card
 - Padding
